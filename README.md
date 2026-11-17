@@ -56,8 +56,6 @@ is set from football or physics reasoning and documented next to it in the code.
   only the automatic Smart Tagging.
 - **Assets used:** tactical tracking (ATD) and its metadata, and the Smart Tagging (only for the
   consistency check). Homography, videos and the broadcast feed were not used.
-- **AI assistance:** the code was developed with the help of Claude (Anthropic), as declared in
-  the technical document. The match data was never shared with any hosted model.
 - The match data is **not** in this repository (see `.gitignore`).
 
 ## Challenge documentation
