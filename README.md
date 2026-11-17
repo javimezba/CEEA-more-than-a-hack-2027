@@ -10,7 +10,7 @@ Details, experiments and limitations are in the technical document.
 
 ## Reproduce the submission
 
-Requirements: Python 3.12 (3.9+ should work), the match data bundle (not included — it is
+Requirements: Python 3.12, the match data bundle (not included — it is
 licensed for the competition only).
 
 ```bash
